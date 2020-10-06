@@ -1,0 +1,28 @@
+As a homeowner, 
+I want to easily get a quote on my lawn service,
+so I can shop around for the best deals.
+
+As a homeowner,
+I want to easily get a quote on my lawn service,
+so I don't have to worry about taking care of my lawn.
+
+As a disabled homeowner,
+I want to hire a dependable lawn service,
+because my disability inhibits me from some physical labor.
+
+As an existing customer,
+I want to be able to check on the status of my bill,
+so I don't pay a late fee.
+
+As an existing customer,
+I want to be able to easily contact my lawn service,
+in case of emergency, like a downed tree.
+
+As a potential customer,
+I want easy access to reviews and ratings,
+so that I know that my money is well-spent on good service.
+
+As a potential customer,
+I want to see social proof,
+so I know I can trust my lawn service according to others' experience.
+
