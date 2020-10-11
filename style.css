@@ -45,11 +45,6 @@ column-gap: 10px;
 width: 100%;
 }
 
-@media screen and (max-width: 600px) {
-.column {
-  width: 100%
-}
-}
 
 form {
 text-align: center;
@@ -59,4 +54,19 @@ text-align: center;
 width: 10%;
 padding: 0px;
 float: right;
+}
+
+input {
+margin: 20px;
+box-sizing: border-box;
+border: 1px solid black;
+background-color: forestgreen;
+color: yellowgreen;
+
+}
+
+label {
+margin: 20px;
+font-family: Alegre Sans; sans-serif;
+font-size: 18px;
 }
