@@ -1,0 +1,21 @@
+As a homeowner, 
+I want to easily get a quote on my lawn service,
+so I can shop around for the best deals.
+
+As a homeowner,
+I want to easily get a quote on my lawn service,
+so I don't have to worry about taking care of my lawn.
+
+As an existing customer,
+I want to be able to check on the status of my bill,
+so I don't pay a late fee.
+
+As an existing customer,
+I want to be able to easily contact my lawn service,
+in case of emergency, like a downed tree.
+
+As a potential customer,
+I want easy access to social proof like reviews and ratings,
+so that I know I can trust my lawn service professional.
+
+
