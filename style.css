@@ -31,6 +31,10 @@ padding: 20px 20px 20px 20px;
 text-align: justify;
 }
 
+h3 {
+text-align: center;
+}
+
 div {
 column-width: 50%;
 column-count: 2;
@@ -56,4 +60,3 @@ width: 10%;
 padding: 0px;
 float: right;
 }
-
