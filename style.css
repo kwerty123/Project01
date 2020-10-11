@@ -40,9 +40,13 @@ div {
 #blower {
   text-align: center;
 }
-
+s
 @media screen and (max-width: 600px) {
   .column {
     width: 100%
   }
+}
+
+form {
+  text-align: center;
 }
